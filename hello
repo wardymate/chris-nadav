@@ -1,4 +1,8 @@
 another file
+<<<<<<< HEAD
 
 
 this will create a merge conflict
+=======
+putting another line just to check merging conflicts 
+>>>>>>> 53d246081b73a50e7ed5e2103a258aeaebcfada1
